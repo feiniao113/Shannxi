@@ -11,6 +11,10 @@
 		{
 			"url": "https://raw.githubusercontent.com/feiniao113/tvbox/main/api.json",
 			"name": "延安"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/feiniao113/tvboxhh/main/ysj.json",
+			"name": "眉县"
 		}
 	]
 }
