@@ -1,20 +1,20 @@
 {
 	"urls": [
 		{
-			"url": "https://raw.githubusercontent.com/feiniao113/tjf/main/trk.json",
-			"name": "宝鸡"
-		},
-		{
-			"url": "https://raw.githubusercontent.com/feiniao113/JS/main/js.json",
-			"name": "西安"
-		},
-		{
 			"url": "https://raw.githubusercontent.com/feiniao113/tvbox/main/api.json",
-			"name": "延安"
+			"name": "油泼面"
 		},
 		{
 			"url": "https://raw.githubusercontent.com/feiniao113/tvboxhh/main/ysj.json",
-			"name": "眉县"
+			"name": "臊子面"
+		},
+ {
+			"url": "https://raw.githubusercontent.com/feiniao113/JS/main/js.json",
+			"name": "棍棍面"
+		},
+  {
+			"url": "https://raw.githubusercontent.com/feiniao113/tjf/main/trk.json",
+			"name": "酸汤面"
 		}
 	]
 }
