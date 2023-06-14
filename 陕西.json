@@ -1,7 +1,7 @@
 {
 	"urls": [
 		{
-			"url": "https://raw.githubusercontent.com/feiniao113/tvbox/main/api.json",
+			"url": "https://raw.githubusercontent.com/feiniao113/tbx/main/api.json",
 			"name": "油泼面"
 		},
 		{
@@ -9,7 +9,7 @@
 			"name": "刀削面"
 		},
 		{
-			"url": "https://raw.githubusercontent.com/feiniao113/tvboxhh/main/ysj.json",
+			"url": "https://raw.githubusercontent.com/feiniao113/tbhh/main/ysj.json",
 			"name": "臊子面"
 		},
  {
