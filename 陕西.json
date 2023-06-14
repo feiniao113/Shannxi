@@ -9,6 +9,11 @@
 			"name": "刀削面"
 		},
 		{
+			"url": "clan://localhost/tvbox/XYQTVBox/drpy_js/drjs_config.json",
+			"name": "烩麻食"
+		},
+
+		{
 			"url": "https://raw.githubusercontent.com/feiniao113/tbhh/main/ysj.json",
 			"name": "臊子面"
 		},
