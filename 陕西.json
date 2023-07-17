@@ -22,14 +22,7 @@
 			"url": "clan://localhost/tvbox/js/js.json",
 			"name": "肉夹馍"
 		},
-		{
-			"url": "https://raw.githubusercontent.com/feiniao113/tbhh/main/ysj.json",
-			"name": "臊子面"
-		},
- {
-			"url": "https://raw.githubusercontent.com/feiniao113/JS/main/js.json",
-			"name": "棍棍面"
-		},
+		
   {
 			"url": "https://raw.githubusercontent.com/feiniao113/tjf/main/trk.json",
 			"name": "酸汤面"
